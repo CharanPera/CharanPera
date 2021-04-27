@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CharanPera
-- 👀 I’m interested in C, pyhton and Machine Learning
+- 👀 I’m interested in C, python and Machine Learning
 - 🌱 I’m currently learning Machine Learning and neural networks
 - 💞️ I’m looking to collaborate on Intel
 - 📫 How to reach me , charan1999p@gmail.com this is my personal mail'id and you reach me out at any time
